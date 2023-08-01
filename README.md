@@ -56,6 +56,8 @@ yarn install
 yarn ios
 # Or:
 yarn android
+```
+
 
 ## Technologies Used
 
