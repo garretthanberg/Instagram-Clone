@@ -61,8 +61,13 @@ yarn android
 
 ## Technologies Used
 
-React Native: A JavaScript framework for building cross-platform mobile apps.
-Firebase: A backend-as-a-service platform, providing authentication, real-time database, and storage services.
-Formik: A form library for managing form state and validation in React applications.
-Yup: A JavaScript schema builder for value parsing and validation.
-Yarn: A fast and reliable package manager for Node.js and JavaScript projects.
+* React Native: A JavaScript framework for building cross-platform mobile apps.
+* Firebase: A backend-as-a-service platform, providing authentication, real-time database, and storage services.
+* Formik: A form library for managing form state and validation in React applications.
+* Yup: A JavaScript schema builder for value parsing and validation.
+* Yarn: A fast and reliable package manager for Node.js and JavaScript projects.
+
+
+<p align="center">
+  <img src="https://github.com/garretthanberg/Instagram-Clone/assets/115447682/b00f0852-cbd7-4d6c-83a3-20bb87428c7e" alt="screenshot">
+</p>
