@@ -81,3 +81,15 @@ Contributions to the project are welcome and encouraged! If you find any bugs or
 3. Commit your changes: git commit -m 'Add YourFeature'
 4. Push to the branch: git push origin feature/YourFeature
 5. Open a pull request
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+I hope you enjoy using my Instagram clone! If you have any questions or need assistance, feel free to contact me.
+
+> Portfolio [garretthanberg.com](https://www.garretthanberg.com) &nbsp;&middot;&nbsp;
+> GitHub [@garretthanberg](https://github.com/garretthanberg) &nbsp;&middot;&nbsp;
+> LinkedIn [Garrett Hanberg](https://www.linkedin.com/in/garrett-hanberg/) &nbsp;&middot;&nbsp;
