@@ -8,7 +8,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Technologies Used</a> •
-  <a href="#related">Contributing</a> •
+  <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
 
@@ -58,7 +58,6 @@ yarn ios
 yarn android
 ```
 
-
 ## Technologies Used
 
 * React Native: A JavaScript framework for building cross-platform mobile apps.
@@ -67,7 +66,16 @@ yarn android
 * Yup: A JavaScript schema builder for value parsing and validation.
 * Yarn: A fast and reliable package manager for Node.js and JavaScript projects.
 
-
 <p align="center">
   <img src="https://github.com/garretthanberg/Instagram-Clone/assets/115447682/b00f0852-cbd7-4d6c-83a3-20bb87428c7e" alt="screenshot">
 </p>
+
+## Contributing
+
+Contributions to the project are welcome and encouraged! If you find any bugs or want to add new features, please create an issue or submit a pull request. Please make sure to follow the project's code of conduct.
+
+1. Fork the repository
+2. Create your branch: git checkout -b feature/YourFeature
+3. Commit your changes: git commit -m 'Add YourFeature'
+4. Push to the branch: git push origin feature/YourFeature
+5. Open a pull request
