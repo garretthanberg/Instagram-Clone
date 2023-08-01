@@ -41,11 +41,11 @@ $ git clone https://github.com/your-username/instagram-clone.git
 
 
 # Go into the repository:
-cd instagram-clone
+$ cd instagram-clone
 
 
 # Install dependencies using Yarn:
-yarn install
+$ yarn install
 
 
 # Create a Firebase project and set up the necessary configurations (authentication and Firestore).
@@ -53,11 +53,11 @@ yarn install
 
 
 # Run the app on your preferred platform (iOS/Android) using React Native CLI:
-yarn ios
+$ yarn ios
 
 
 # Or:
-yarn android
+$ yarn android
 ```
 
 ## Technologies Used
