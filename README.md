@@ -92,4 +92,4 @@ I hope you enjoy using my Instagram clone! If you have any questions or need ass
 
 > Portfolio [garretthanberg.com](https://www.garretthanberg.com) &nbsp;&middot;&nbsp;
 > GitHub [@garretthanberg](https://github.com/garretthanberg) &nbsp;&middot;&nbsp;
-> LinkedIn [Garrett Hanberg](https://www.linkedin.com/in/garrett-hanberg/) &nbsp;&middot;&nbsp;
+> LinkedIn [Garrett Hanberg](https://www.linkedin.com/in/garrett-hanberg/) 
