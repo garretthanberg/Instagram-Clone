@@ -36,9 +36,31 @@ This is a full-fledged Instagram clone built using React Native and Firebase. It
 To run the Instagram clone on your local machine, follow these steps:
 
 ```bash
-# Clone this repository
+# Clone this repository:
 $ git clone https://github.com/your-username/instagram-clone.git
 
-# Go into the repository
+
+# Go into the repository:
 cd instagram-clone
 
+
+# Install dependencies using Yarn:
+yarn install
+
+
+# Create a Firebase project and set up the necessary configurations (authentication and Firestore).
+# Replace the placeholders in firebase.js with your Firebase project configuration.
+
+
+# Run the app on your preferred platform (iOS/Android) using React Native CLI:
+yarn ios
+# Or:
+yarn android
+
+## Technologies Used
+
+React Native: A JavaScript framework for building cross-platform mobile apps.
+Firebase: A backend-as-a-service platform, providing authentication, real-time database, and storage services.
+Formik: A form library for managing form state and validation in React applications.
+Yup: A JavaScript schema builder for value parsing and validation.
+Yarn: A fast and reliable package manager for Node.js and JavaScript projects.
