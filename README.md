@@ -54,6 +54,8 @@ yarn install
 
 # Run the app on your preferred platform (iOS/Android) using React Native CLI:
 yarn ios
+
+
 # Or:
 yarn android
 ```
