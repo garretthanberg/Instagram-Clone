@@ -1,4 +1,4 @@
-# Instagram Clone with React Native, Firebase, Formik, and Yup
+# Instagram iOS Clone with React Native, Firebase, Formik, and Yup
 
 <p>
   <!-- iOS -->
