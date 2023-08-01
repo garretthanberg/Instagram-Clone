@@ -28,7 +28,7 @@ This is a full-fledged Instagram clone built using React Native and Firebase. It
 * Like posts: Interact with posts by clicking the like button.
 
 <p align="center">
-  <img src="" alt="screenshot">
+  <img src="https://github.com/garretthanberg/Instagram-Clone/assets/115447682/815cc698-e3bc-44f8-b205-4f6dffa4f666" alt="screenshot">
 </p>
 
 ## Installation
