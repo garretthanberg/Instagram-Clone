@@ -12,4 +12,4 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot]((https://github.com/garretthanberg/Instagram-Clone/assets/115447682/e2e0bae4-8dea-4279-ae36-e316b432be17)
+![screenshot](https://github.com/garretthanberg/Instagram-Clone/assets/115447682/e2e0bae4-8dea-4279-ae36-e316b432be17)
