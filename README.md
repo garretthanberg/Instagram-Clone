@@ -41,7 +41,7 @@ $ git clone https://github.com/garretthanberg/Instagram-Clone.git
 
 
 # Go into the repository:
-$ cd instagram-clone 
+$ cd Instagram-Clone 
 
 
 # Install dependencies using Yarn:
