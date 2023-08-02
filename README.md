@@ -37,7 +37,7 @@ To run the Instagram clone on your local machine, follow these steps:
 
 ```bash
 # Clone this repository:
-$ git clone https://github.com/your-username/instagram-clone.git
+$ git clone https://github.com/garretthanberg/Instagram-Clone.git
 
 
 # Go into the repository:
