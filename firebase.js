@@ -3,7 +3,7 @@ import firebase from "firebase/compat";
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
-  projectId: "rn-instagram-clone-gh",
+  projectId: "",
   storageBucket: "",
   messagingSenderId: "",
   appId: "",
