@@ -49,7 +49,7 @@ $ yarn install
 
 
 # Create a Firebase project and set up the necessary configurations (authentication and Firestore).
-# Replace the placeholders in firebase.js with your Firebase project configuration.
+# Replace the Firebase config in firebase.js with your credentials.
 
 
 # Run the app on your preferred platform (iOS/Android) using React Native CLI:
